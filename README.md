@@ -1,4 +1,4 @@
-# CSE847 Machine Learning, 2015 Spring
+# CSE847 Machine Learning, 2016 Spring
 Instructor: [Jiayu Zhou](http://0xmachine.com) [[email](mailto:jiayuz@msu.edu)]
 
 
