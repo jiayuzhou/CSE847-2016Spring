@@ -24,9 +24,9 @@ Announcements will be emailed to the course mailing list. A welcome note will be
 ### Course Requirements and Grading
 The grade will be calculated as follows:
 
-* Assignments: 40%
-* Project: 25%
-* Exam (Midterm, Final): 30%
+* Assignments: 30%
+* [Project](https://github.com/jiayuzhou/CSE847-2016Spring/tree/master/project): 40% 
+* Exam (Midterm, Final): 25%
 * Class participation: 5% 
 
 ### Homework
@@ -47,7 +47,7 @@ The purpose of student collaboration is to facilitate learning, not to circumven
 * Week 5. Support Vector Machines 
 * Week 6. Kernel Methods
 * Week 7. Graphical Models 
-* Week 8. Project Proposal Presentation, Mid-term exam 
+* Week 8. Mid-term exam 
 * Week 9. Spring Break
 * Week 10. Clustering
 * Week 11. Dimensionality Reduction 
