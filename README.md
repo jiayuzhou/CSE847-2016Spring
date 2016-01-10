@@ -38,6 +38,28 @@ Homework is worth full credit at the beginning of class on the due date (later i
 
 The purpose of student collaboration is to facilitate learning, not to circumvent it. Studying the material in groups is strongly encouraged. It is also allowed to seek help from other students in understanding the material needed to solve a particular homework problem, provided no written notes are shared, or are taken at that time, and provided learning is facilitated, not circumvented. The actual solution must be done by each student alone, and the student should be ready to reproduce their solution upon request. Any form of help or collaboration must be disclosed in full by all involved on the first page of their assignment. In any case, you must exercise academic integrity.
 
+## Tentative Schedule
+
+* Week 1. Introduction
+* Week 2. Basics: Probability Theory and Linear Algebra
+* Week 3. Linear Models for Regression
+* Week 4. Linear Models for Classification
+* Week 5. Support Vector Machines 
+* Week 6. Kernel Methods
+* Week 7. Graphical Models 
+* Week 8. Project Proposal Presentation, Mid-term exam 
+* Week 9. Spring Break
+* Week 10. Clustering
+* Week 11. Dimensionality Reduction 
+* Week 12. Sparse Learning
+* Week 13. Manifold Learning
+* Week 14. Transfer Learning 
+* Week 15. Multi-Task Learning 
+* Week 16. Project Final Presentation
+* Week 17. Final exam
+
+The schedule is tentative and may subject to change. 
+
 ## References
 
 * Textbook: Pattern Recognition and Machine Learning, Christopher M. Bishop, 2006. [Webpage](http://research.microsoft.com/en-us/um/people/cmbishop/PRML/)
