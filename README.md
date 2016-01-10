@@ -11,13 +11,39 @@ Office Hours: Tuesday and Thursday 4:00pm-5:00pm, EB 2134
 
 
 ## Course Description
-Machine Learning is concerned with computer programs that automatically improve their performance through experience (e.g., that learn to spot high-risk medical patients, recognize speech, classify text documents, detect credit card fraud, or drive autonomous robots).
+Machine Learning is concerned with computer programs that automatically improve their performance through experience (e.g., that learn to spot high-risk medical patients, recognize speech, classify text documents, detect credit card fraud, or drive autonomous robots). This course provides an in-depth understanding of machine learning and statistical pattern recognition techniques and their applications in biomedical informatics, computer vision, and other domains.
 
-This course covers the theory and practical algorithms for machine learning from a variety of perspectives. We cover topics such as decision tree learning, maximum entropy model, support vector machine and kernel methods, graphic models, Bayesian learning methods, dimension reduction , feature and model selection. This course covers theoretical concepts such as inductive bias, the PAC learning framework, minimum description length principle, and Occam's Razor. We will also provide brief tutorials on Information Theory, optimization theory, and Bayesian Statistics, as needed.
+Topics: probability distributions, regression, classification, kernel methods, clustering, semi-supervised learning, mixture models, graphical models, dimensionality reduction, manifold learning, sparse learning, multi-task learning, transfer learning, and Hidden Markov Models.
 
 Homework assignments include both theoretic derivation and hands-on experiments with various learning algorithms. Every student is required to finish a project that is either assigned by the intructor or designed by the student himself.
 
 ## Course Announcements
-Announcements will be emailed to the course mailing list. A welcome note was sent to the mailing list at the beginning of the semester.  If you did not receive the welcome message, please [send mail to me](mailto:jiayuz@msu.edu).
+Announcements will be emailed to the course mailing list. A welcome note will be sent to the mailing list at the beginning of the semester.  If you do not receive the welcome message before the first class, please [send mail to me](mailto:jiayuz@msu.edu).
+
+## Policies
+### Course Requirements and Grading
+The grade will be calculated as follows:
+
+* Assignments: 40%
+* Project: 25%
+* Exam (Midterm, Final): 30%
+* Class participation: 5% 
+
+### Homework
+*Lateness and Extensions*
+
+Homework is worth full credit at the beginning of class on the due date (later if an extension has been granted). It is worth at most 90% credit for the next 24 hours. It is worth at most 50% credit for the following 24 hours. It is worth 25% credit after that.  If you need an extension, please ask for it (by sending email to the instructor) as soon as the need for it is known.  Extensions that are requested promptly will be granted more liberally.  You must turn in all assignments.
+
+*Collaboration among Students*
+
+The purpose of student collaboration is to facilitate learning, not to circumvent it. Studying the material in groups is strongly encouraged. It is also allowed to seek help from other students in understanding the material needed to solve a particular homework problem, provided no written notes are shared, or are taken at that time, and provided learning is facilitated, not circumvented. The actual solution must be done by each student alone, and the student should be ready to reproduce their solution upon request. Any form of help or collaboration must be disclosed in full by all involved on the first page of their assignment. In any case, you must exercise academic integrity.
+
+## References
+
+* Textbook: Pattern Recognition and Machine Learning, Christopher M. Bishop, 2006. [Webpage](http://research.microsoft.com/en-us/um/people/cmbishop/PRML/)
+
+* Reference book: The Elements of Statistical Learning: Data Mining, Inference, and Prediction (Second Edition)
+by Trevor Hastie, Robert Tibshirani and Jerome Friedman (2009) [Book](http://www-stat.stanford.edu/~hastie/Papers/ESLII.pdf)
+
 
 
