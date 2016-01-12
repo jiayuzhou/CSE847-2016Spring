@@ -24,9 +24,9 @@ Announcements will be emailed to the course mailing list. A welcome note will be
 ### Course Requirements and Grading
 The grade will be calculated as follows:
 
-* Assignments: 30%
-* [Project](https://github.com/jiayuzhou/CSE847-2016Spring/tree/master/project): 40% 
-* Exam (Midterm, Final): 25%
+* Assignments: 40%
+* [Project](https://github.com/jiayuzhou/CSE847-2016Spring/tree/master/project): 25% 
+* Exam (Midterm, Final): 30%
 * Class participation: 5% 
 
 ### Homework
