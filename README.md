@@ -47,7 +47,7 @@ The purpose of student collaboration is to facilitate learning, not to circumven
 * Week 5. Support Vector Machines 
 * Week 6. Kernel Methods
 * Week 7. Graphical Models 
-* Week 8. Mid-term exam 
+* Week 8. Graphical Models (cont.) Mid-term exam 
 * Week 9. Spring Break
 * Week 10. Clustering
 * Week 11. Dimensionality Reduction 
