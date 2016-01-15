@@ -40,21 +40,21 @@ The purpose of student collaboration is to facilitate learning, not to circumven
 
 ## Tentative Schedule
 
-* Week 1. Introduction
-* Week 2. Basics: Probability Theory and Linear Algebra
+* Week 1. Introduction [Lecture Notes](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/notes/Lec1and2-Intro.pdf)
+* Week 2. Basics: Probability Theory and Linear Algebra 
 * Week 3. Linear Models for Regression
 * Week 4. Linear Models for Classification
 * Week 5. Support Vector Machines 
 * Week 6. Kernel Methods
-* Week 7. Graphical Models 
+* Week 7. Graphical Models
 * Week 8. Graphical Models (cont.) Mid-term exam 
 * Week 9. Spring Break
 * Week 10. Clustering
 * Week 11. Dimensionality Reduction 
 * Week 12. Sparse Learning
-* Week 13. Manifold Learning
-* Week 14. Transfer Learning 
-* Week 15. Multi-Task Learning 
+* Week 13. Matrix Factorization, Completion and Collaborative Filtering
+* Week 14. Transfer and Multi-Task Learning 
+* Week 15. Deep Learning
 * Week 16. Project Final Presentation
 * Week 17. Final exam
 
