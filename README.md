@@ -40,7 +40,7 @@ The purpose of student collaboration is to facilitate learning, not to circumven
 
 ## Tentative Schedule
 
-* Week 1. Introduction [Lecture Notes](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/notes/Lec1and2-Intro.pdf)
+* Week 1. Introduction [[Lecture Notes]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/notes/Lec1and2-Intro.pdf)
 * Week 2. Basics: Probability Theory and Linear Algebra 
 * Week 3. Linear Models for Regression
 * Week 4. Linear Models for Classification
