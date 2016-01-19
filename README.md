@@ -5,7 +5,7 @@ Instructor: [Jiayu Zhou](http://0xmachine.com) [[email](mailto:jiayuz@msu.edu)]
 
 Time: Tuesday and Thursday 2:40pm - 4:00pm
 
-Location: 1300 Engineering Building 
+Location: Engineering Building, **EB 2205**  
 
 Office Hours: Tuesday and Thursday 4:00pm-5:00pm, EB 2134
 
