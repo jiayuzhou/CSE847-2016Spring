@@ -62,10 +62,24 @@ The schedule is tentative and may subject to change.
 
 ## References
 
+### Machine Learning
+
 * Textbook: Pattern Recognition and Machine Learning, Christopher M. Bishop, 2006. [Webpage](http://research.microsoft.com/en-us/um/people/cmbishop/PRML/)
 
 * Reference book: The Elements of Statistical Learning: Data Mining, Inference, and Prediction (Second Edition)
 by Trevor Hastie, Robert Tibshirani and Jerome Friedman (2009) [Book](http://www-stat.stanford.edu/~hastie/Papers/ESLII.pdf)
 
+### Basic Probability Theory
 
+* Shorter materials
+
+http://ai.stanford.edu/~paskin/gm-short-course/lec1.pdf
+
+http://www.sci.utah.edu/~gerig/CS6640-F2010/prob-tut.pdf 
+
+* Longer books
+
+http://mplab.ucsd.edu/tutorials/ProbabilityAndStats.pdf
+
+https://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/amsbook.mac.pdf
 
