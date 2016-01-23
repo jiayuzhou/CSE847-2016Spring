@@ -58,6 +58,13 @@ The purpose of student collaboration is to facilitate learning, not to circumven
 * Week 16. Project Final Presentation
 * Week 17. Final exam
 
+## Assignments
+
+Please carefully read the *Lateness and Extensions* section for policies. 
+
+* [[Assignment 1]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/homework/assignment1.pdf)
+Due on Thursday, Jan 28. 
+
 The schedule is tentative and may subject to change. 
 
 ## References
