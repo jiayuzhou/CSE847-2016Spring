@@ -41,7 +41,7 @@ The purpose of student collaboration is to facilitate learning, not to circumven
 ## Tentative Schedule
 
 * Week 1. Introduction [[Lecture Notes]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/notes/Lec1and2-Intro.pdf)
-* Week 2. Probability Theory [[Lecture Notes]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/notes/Lec3-Prob.pdf) and Linear Algebra [[Lecture Notes]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/notes/Lec4-LinearAlgebra.pdf)
+* Week 2. Probability Theory [[Lecture Notes]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/notes/Lec3-Prob.pdf) and Linear Algebra [[Lecture Notes]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/notes/Lec4-LinearAlgebra.pdf)[[Notes on SVD]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/notes/Lec5-SVD.pdf)
 * Week 3. Linear Models for Regression
 * Week 4. Linear Models for Classification
 * Week 5. Support Vector Machines 
