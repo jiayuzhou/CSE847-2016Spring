@@ -90,3 +90,15 @@ http://mplab.ucsd.edu/tutorials/ProbabilityAndStats.pdf
 
 https://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/amsbook.mac.pdf
 
+### Basic Optimization 
+
+* Lecture notes from Andrew Ng:
+
+http://cs229.stanford.edu/notes/cs229-notes1.pdf
+
+* If you are interested in systemtical studying the optimization 
+ knowledge, try reading the book Convex Optimization:
+
+https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf
+
+The basic gradient descent is decribed in Page 463 (Page 477 of the PDF file). 
