@@ -40,23 +40,27 @@ The purpose of student collaboration is to facilitate learning, not to circumven
 
 ## Tentative Schedule
 
-* Week 1. Introduction [[Lecture Notes]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/notes/Lec1and2-Intro.pdf)
-* Week 2. Probability Theory [[Lecture Notes]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/notes/Lec3-Prob.pdf) and Linear Algebra [[Lecture Notes]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/notes/Lec4-LinearAlgebra.pdf)[[Notes on SVD]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/notes/Lec5-SVD.pdf)
-* Week 3. Linear Models for Regression [[Lecture Notes Part I]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/notes/Lec6-Regression.pdf)
-* Week 4. Linear Models for Classification
-* Week 5. Support Vector Machines 
-* Week 6. Kernel Methods
-* Week 7. Graphical Models
-* Week 8. Graphical Models (cont.) Mid-term exam 
-* Week 9. Spring Break
-* Week 10. Clustering
-* Week 11. Dimensionality Reduction 
-* Week 12. Sparse Learning
-* Week 13. Matrix Factorization, Completion and Collaborative Filtering
-* Week 14. Transfer and Multi-Task Learning 
-* Week 15. Deep Learning
-* Week 16. Project Final Presentation
-* Week 17. Final exam
+* Topic 1. Introduction [[Lecture Notes]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/notes/Lec1-Intro.pdf)
+* Topic 2. Basics - Probability Theory [[Lecture Notes]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/notes/Lec2-Prob.pdf)
+* Topic 3. Basics - Linear Algebra [[Lecture Notes]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/notes/Lec3-LinearAlgebra.pdf)
+* Topic 4. Basics - Linear Algebra - SVD [[Notes on SVD]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/notes/Lec4-SVD.pdf)
+* Topic 5. Linear Models for Regression 
+           [[Lecture Notes Part I]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/notes/Lec5-Regression.pdf)
+           [[Lecture Notes Part II]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/notes/Lec5-Regression2.pdf)
+* Topic 4. Linear Models for Classification
+* Topic 5. Support Vector Machines 
+* Topic 6. Kernel Methods
+* Topic 7. Graphical Models
+* Mid-term exam 
+* Spring Break
+* Topic 9.  Clustering
+* Topic 11. Dimensionality Reduction 
+* Topic 12. Sparse Learning
+* Topic 13. Matrix Factorization, Completion and Collaborative Filtering
+* Topic 14. Transfer and Multi-Task Learning 
+* Topic 15. Deep Learning
+* Topic 16. Project Final Presentation
+* Topic 17. Final exam
 
 ## Assignments
 
