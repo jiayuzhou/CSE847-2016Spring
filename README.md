@@ -68,6 +68,8 @@ Please carefully read the *Lateness and Extensions* section for policies.
 
 * [[Assignment 1]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/homework/assignment1.pdf)
 Due on Thursday, Jan 28. 
+* [[Assignment 2]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/homework/assignment2.pdf)
+Due on Thursday, Feb 16. 
 
 The schedule is tentative and may subject to change. 
 
