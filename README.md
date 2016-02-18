@@ -49,7 +49,7 @@ The purpose of student collaboration is to facilitate learning, not to circumven
            [[Lecture Notes Part II]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/notes/Lec5-Regression2.pdf)
            [[Lecture Notes Part III]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/notes/Lec5-Regression3.pdf)
 * Topic 4. Linear Models for Classification
-           [[Notes on SVD]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/notes/Lec7-Classification.pdf)
+           [[Lecture Notes]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/notes/Lec7-Classification.pdf)
 * Topic 5. Support Vector Machines 
 * Topic 6. Kernel Methods
 * Topic 7. Graphical Models
