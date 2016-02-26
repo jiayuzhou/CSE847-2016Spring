@@ -26,7 +26,7 @@ The grade will be calculated as follows:
 
 * Assignments: 40%
 * [Project](https://github.com/jiayuzhou/CSE847-2016Spring/tree/master/project): 25% 
-* Exam (Midterm, Final): 30%
+* Exam (Midterm: March 15 Tue, Final): 30% 
 * Class participation: 5% 
 
 ### Homework
@@ -48,21 +48,21 @@ The purpose of student collaboration is to facilitate learning, not to circumven
            [[Lecture Notes Part I]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/notes/Lec5-Regression.pdf)
            [[Lecture Notes Part II]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/notes/Lec5-Regression2.pdf)
            [[Lecture Notes Part III]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/notes/Lec5-Regression3.pdf)
-* Topic 4. Linear Models for Classification
-           [[Lecture Notes]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/notes/Lec7-Classification.pdf)
-* Topic 5. Support Vector Machines 
-* Topic 6. Kernel Methods
-* Topic 7. Graphical Models
-* Mid-term exam 
-* Spring Break
-* Topic 9.  Clustering
-* Topic 11. Dimensionality Reduction 
-* Topic 12. Sparse Learning
-* Topic 13. Matrix Factorization, Completion and Collaborative Filtering
-* Topic 14. Transfer and Multi-Task Learning 
-* Topic 15. Deep Learning
-* Topic 16. Project Final Presentation
-* Topic 17. Final exam
+* Topic 6. Linear Models for Classification
+           [[Lecture Notes]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/notes/Lec6-Classification.pdf)
+* Topic 7. Support Vector Machines
+     	   [[Lecture Notes]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/notes/Lec7-SVM.pdf)
+* Topic 8. Kernel Methods
+		   [[Lecture Notes]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/notes/Lec8-Kernel.pdf)
+* Topic 9. Mixture Models
+* Topic 10. Clustering
+* Topic 11. Graphical Models
+* Topic 12. Dimensionality Reduction 
+* Topic 13. Sparse Learning
+* Topic 14. Matrix Factorization, Completion and Collaborative Filtering
+* Topic 15. Transfer and Multi-Task Learning 
+* Topic 16. Deep Learning
+* Topic 17. Project Final Presentation
 
 ## Assignments
 
