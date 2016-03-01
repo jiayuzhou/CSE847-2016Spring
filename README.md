@@ -54,15 +54,16 @@ The purpose of student collaboration is to facilitate learning, not to circumven
      	   [[Lecture Notes]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/notes/Lec7-SVM.pdf)
 * Topic 8. Kernel Methods
 		   [[Lecture Notes]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/notes/Lec8-Kernel.pdf)
-* Topic 9. Mixture Models
-* Topic 10. Clustering
-* Topic 11. Graphical Models
-* Topic 12. Dimensionality Reduction 
-* Topic 13. Sparse Learning
-* Topic 14. Matrix Factorization, Completion and Collaborative Filtering
-* Topic 15. Transfer and Multi-Task Learning 
-* Topic 16. Deep Learning
-* Topic 17. Project Final Presentation
+* Topic 9. Ensemble
+* Topic 10. Graphical Models
+* Topic 11. Mixture Models
+* Topic 12. Clustering
+* Topic 13. Deep Learning
+* Topic 14. Dimensionality Reduction 
+* Topic 15. Sparse Learning 
+* Topic 16. Transfer and Multi-Task Learning 
+* Topic 16. Matrix Factorization, Completion and Collaborative Filtering
+* Topic 17. Matrix Completion
 
 ## Assignments
 
