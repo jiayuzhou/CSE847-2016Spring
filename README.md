@@ -62,8 +62,8 @@ The purpose of student collaboration is to facilitate learning, not to circumven
 * Topic 14. Dimensionality Reduction 
 * Topic 15. Sparse Learning 
 * Topic 16. Transfer and Multi-Task Learning 
-* Topic 16. Matrix Factorization, Completion and Collaborative Filtering
-* Topic 17. Matrix Completion
+* Topic 17. Matrix Factorization, Completion and Collaborative Filtering
+* Topic 18. Matrix Completion
 
 ## Assignments
 
