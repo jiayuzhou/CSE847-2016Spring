@@ -55,6 +55,7 @@ The purpose of student collaboration is to facilitate learning, not to circumven
 * Topic 8. Kernel Methods
 		   [[Lecture Notes]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/notes/Lec8-Kernel.pdf)
 * Topic 9. Ensemble
+		   [[Lecture Notes Part I]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/notes/Lec9-Ensemble.pdf)
 * Topic 10. Graphical Models
 * Topic 11. Mixture Models
 * Topic 12. Clustering
