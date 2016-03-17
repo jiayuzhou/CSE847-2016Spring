@@ -56,6 +56,7 @@ The purpose of student collaboration is to facilitate learning, not to circumven
 		   [[Lecture Notes]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/notes/Lec8-Kernel.pdf)
 * Topic 9. Ensemble
 		   [[Lecture Notes Part I]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/notes/Lec9-Ensemble.pdf)
+		   [[Lecture Notes Part II]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/notes/Lec9-Ensemble2.pdf)
 * Topic 10. Graphical Models
 * Topic 11. Mixture Models
 * Topic 12. Clustering
