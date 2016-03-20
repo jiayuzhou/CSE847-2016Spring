@@ -39,7 +39,7 @@ and also the their github IDs. A project repository will be created in the
 
 ## Important Dates
 * Proposal due: Feb 19, 2016 
-* Intermediate project report due: Mar 18, 2016
+* Intermediate project report due: ~~Mar 18, 2016~~ Mar 25, 2016
 * final project presentation: Apr 26 and 28, 2016
 * final project report due: Apr 28, 2016
 
