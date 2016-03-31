@@ -15,8 +15,8 @@ AD from the features derived from PET imaging.
 The dataset is in the Matlab data file `ad_data.mat`, where each patient is 
 describe by 116 numerical features extracted from PET imaging. The dataset 
 has been divided into a training set and a testing set. Training data (features) 
-and labels are given in `data_train` and `label_train`, and testing data (features) 
-and labels are given in `data_test` and `label_test`. You will find in the data
+and labels are given in `X_train` and `y_train`, and testing data (features) 
+and labels are given in `X_test` and `y_test`. You will find in the data
 file 172 samples for training and 74 for testing.  The labels are given by 
 1 (AD patient) and -1 (MCI patient). 
 
@@ -52,6 +52,8 @@ Write a brief report to analyze the results using what we learned
 in the class. In your report there should be two plots, showing how
 AUC and number of features vary with different parameters in `par`. 
 
-
+NOTE: in order to use `LogisticR` you will need to have a few 
+dependent files of SLEP in your MATLAB search directory, which 
+are `sll_opts.m` and `initFactor.m` located [here](https://github.com/jiayuzhou/SLEP/tree/master/SLEP/opts). You can copy those files to the folder of `LogisticR`. 
 
 
