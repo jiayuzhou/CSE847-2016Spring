@@ -46,7 +46,7 @@ end
 where `par` is the regularization parameter ranging from [0, 1]. Try 
 the following parameters:
 ```matlab
-par  = [1e-8, 0.01, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1];
+par  = [0, 0.01, 0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1];
 ```
 Write a brief report to analyze the results using what we learned 
 in the class. In your report there should be two plots, showing how
@@ -56,4 +56,13 @@ NOTE: in order to use `LogisticR` you will need to have a few
 dependent files of SLEP in your MATLAB search directory, which 
 are `sll_opts.m` and `initFactor.m` located [here](https://github.com/jiayuzhou/SLEP/tree/master/SLEP/opts). You can copy those files to the folder of `LogisticR`. 
 
-
+NOTE2: By default `LogisticR` does not allow zero as the regularization 
+coefficient. You could do either of the following 1) use a small 
+number e.g.,`1e-8`, other than 0; or 2) change the criteria 
+in line 73 of [`LogisticR`](https://github.com/jiayuzhou/SLEP/blob/master/SLEP/functions/L1/L1R/LogisticR.m)
+to be 
+```matlab
+if (z<0)
+    error('\n z should be non-negative!\n');
+end
+```
