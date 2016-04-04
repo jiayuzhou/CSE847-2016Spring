@@ -60,11 +60,12 @@ The purpose of student collaboration is to facilitate learning, not to circumven
 * Topic 10. Tree Methods
 		   [[Lecture Notes]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/notes/Lec10-TreeMethods.pdf)
 * Topic 11. Clustering/Mixture Models
-                  [[Lecture Notes]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/notes/Lec11-Clustering.pdf)
+                   [[Lecture Notes]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/notes/Lec11-Clustering.pdf)
 * Topic 12. Deep Learning
                    [[Lecture Info]](https://github.com/jiayuzhou/CSE847-2016Spring/tree/master/notes/Lec12-DeepLearning)
-* Topic 13. Graphical Models
-* Topic 14. Dimensionality Reduction 
+* Topic 13. Dimensionality Reduction
+                   [[Lecture Notes]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/notes/Lec13-DimReduction.pdf)
+* Topic 14. Graphical Models
 * Topic 15. Sparse Learning 
 * Topic 16. Transfer and Multi-Task Learning 
 * Topic 17. Matrix Factorization, Completion and Collaborative Filtering
