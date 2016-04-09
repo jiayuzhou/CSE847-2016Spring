@@ -83,6 +83,8 @@ Due on Thursday, Feb 16.
 Due on Tuesday, March 15. 
 * [[Assignment 4]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/homework/assignment4.pdf)
 Due on Tuesday, April 5. 
+* [[Assignment 5]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/homework/assignment5.pdf)
+Due on Tuesday, April 19. 
 
 The schedule is tentative and may subject to change. 
 
