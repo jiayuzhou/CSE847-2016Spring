@@ -65,11 +65,11 @@ The purpose of student collaboration is to facilitate learning, not to circumven
                    [[Lecture Info]](https://github.com/jiayuzhou/CSE847-2016Spring/tree/master/notes/Lec12-DeepLearning)
 * Topic 13. Dimensionality Reduction
                    [[Lecture Notes]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/notes/Lec13-DimReduction.pdf)
-* Topic 15. Sparse Learning 
+* Topic 14. Sparse Learning 
                    [[Lecture Notes]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/notes/Lec15-SparseLearning.pdf)
+* Topic 15. Matrix Completion and Collaborative Filtering
 * Topic 16. Transfer and Multi-Task Learning 
-* Topic 17. Matrix Factorization, Completion and Collaborative Filtering
-* Topic 18. Matrix Completion
+
 
 ## Assignments
 
@@ -97,6 +97,12 @@ The schedule is tentative and may subject to change.
 * Reference book: The Elements of Statistical Learning: Data Mining, Inference, and Prediction (Second Edition)
 by Trevor Hastie, Robert Tibshirani and Jerome Friedman (2009) [Book](http://www-stat.stanford.edu/~hastie/Papers/ESLII.pdf)
 
+### Linear Algebra and Matrix Computation 
+
+* Gradient computation w.r.t. a vector/matrix
+
+https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf
+
 ### Basic Probability Theory
 
 * Shorter materials
@@ -117,7 +123,7 @@ https://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/
 
 http://cs229.stanford.edu/notes/cs229-notes1.pdf
 
-* If you are interested in systemtical studying the optimization 
+* If you are interested in systemtically studying the optimization 
  knowledge, try reading the book Convex Optimization:
 
 https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf
