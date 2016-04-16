@@ -79,9 +79,9 @@ The final project report (10-15 pages) should cover:
 
 ### Final Project Presentation
 Format:
-* 10-15 minutes
+* 10 minutes
 * Describe the motivation and problem description
 * Briefly present the intuition behind the technical details (methodology)
   *  Theory: Algorithm and proof sketch of major properties 
   *  Application: Algorithm and results (you can use a demo)
-
+* [Schedule](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/project/schedule.md)
