@@ -11,7 +11,7 @@ Presentation time for each group is 10 minutes.
 | 3     |	KA	        |	SmartLoc: Indoor Tracking using Bluetooth Low Energy (BLE) beacons in Non-stationary Environments	|
 | 4     |	PL,DW	      |	Keggle:BNP Paribas Cardif Claims Management	|
 | 5     |	AM	        |	Investigating the Effects of the Popularity of Wikpedia Articles in Early Vandal Detection	|
-| 6     |	RK,RM	      |	A study on deep structred model learning with dependent outputs	|
+| 6     |	ZZ,CB	      |	Yelp Restaurant Photo Classification	|
 | 7     |	MAA	        |	Object detection: Cifar	|
 | 8     |	NL,QW,KL	  |	Predict search relevance of products on HomeDepot	|
 
@@ -20,7 +20,7 @@ Presentation time for each group is 10 minutes.
 | Group | Members     | Title         |
 | ----- | :---------- |:------------- |
 | 9     |	YW,YC	      |	Give Me Some Credit - Improving Analysis of Credit Scoring	|
-| 10    |	ZZ,CB	      |	Yelp Restaurant Photo Classification	|
+| 10    |	RK,RM	      |	A study on deep structred model learning with dependent outputs	|
 | 11    |	AG,SH	      |	A Reimplementation of Online Tracking by Learning Discriminative Saliency Map with Convolutional Neural Network	|
 | 12    |	DR	        |	Using Convolutional Neural Networks to Perform Character-Level Text Classification	|
 | 13    |	SI,LT	      |	Implementing Deep Learning Techniques for Object Detection	|
