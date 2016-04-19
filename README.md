@@ -68,6 +68,7 @@ The purpose of student collaboration is to facilitate learning, not to circumven
 * Topic 14. Sparse Learning 
                    [[Lecture Notes]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/notes/Lec15-SparseLearning.pdf)
 * Topic 15. Matrix Completion and Collaborative Filtering
+                   [[Lecture Notes]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/notes/Lec16-MatrixCompletion)
 * Topic 16. Transfer and Multi-Task Learning 
 
 
