@@ -65,11 +65,14 @@ The purpose of student collaboration is to facilitate learning, not to circumven
                    [[Lecture Info]](https://github.com/jiayuzhou/CSE847-2016Spring/tree/master/notes/Lec12-DeepLearning)
 * Topic 13. Dimensionality Reduction
                    [[Lecture Notes]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/notes/Lec13-DimReduction.pdf)
-* Topic 14. Sparse Learning 
+* Topic 14. Graphical Model (Not Covered in Class) 
+                   [[Lecture Notes]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/notes/Lec14-GraphicalModel.pdf)                   
+* Topic 15. Sparse Learning 
                    [[Lecture Notes]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/notes/Lec15-SparseLearning.pdf)
-* Topic 15. Matrix Completion and Collaborative Filtering
+* Topic 16. Matrix Completion and Collaborative Filtering
                    [[Lecture Notes]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/notes/Lec16-MatrixCompletion.pdf)
-* Topic 16. Transfer and Multi-Task Learning 
+* Topic 17. Transfer and Multi-Task Learning (Not Covered in Class) 
+                   [[Lecture Notes]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/notes/Lec17-MultitaskLearning.pdf)
 
 
 ## Assignments
