@@ -79,17 +79,17 @@ The purpose of student collaboration is to facilitate learning, not to circumven
 
 Please carefully read the *Lateness and Extensions* section for policies. 
 
-* [[Assignment 1]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/homework/assignment1.pdf)
+* Assignment 1
 Due on Thursday, Jan 28. 
-* [[Assignment 2]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/homework/assignment2.pdf)
+* Assignment 2
 Due on Thursday, Feb 16. 
-* [[Assignment 3]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/homework/assignment3.pdf)
+* Assignment 3
 Due on Tuesday, March 15. 
-* [[Assignment 4]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/homework/assignment4.pdf)
+* Assignment 4
 Due on Tuesday, April 5. 
-* [[Assignment 5]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/homework/assignment5.pdf)
+* Assignment 5
 Due on Tuesday, April 19. 
-* [[Assignment 6]](https://github.com/jiayuzhou/CSE847-2016Spring/blob/master/homework/assignment6.pdf)
+* Assignment 6
 Due on Tuesday, May 3 (Bonus, optional).
 
 The schedule is tentative and may subject to change. 
